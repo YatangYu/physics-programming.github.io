@@ -2,18 +2,25 @@ body {
   background-color: PowderBlue;
 }
 h1 {
-  color: red
+  color: black
+  font-family: DFKai-sb;
 }
 h2 {
-  color: green
+  color: red
+  font-family: DFKai-sb;
 }
 p {
-  color: white;
+  color: black;
   font-family: DFKai-sb;
 }
 
 pre {
-  color: white;
+  color: black;
+  font-family: DFKai-sb;
+}
+
+ol {
+  color: black;
   font-family: DFKai-sb;
 }
 
